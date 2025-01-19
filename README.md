@@ -16,6 +16,8 @@ for advanced features).
 consistency.
 
 SCREENSHOT:
+![Screenshot 2025-01-19 191313](https://github.com/user-attachments/assets/09010cac-26fa-4428-94db-bd75756e7d09)
+
 
 
 VIDEO DEMONSTRATION:
